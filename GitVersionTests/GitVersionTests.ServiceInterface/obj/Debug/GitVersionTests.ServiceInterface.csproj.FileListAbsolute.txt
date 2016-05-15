@@ -1,0 +1,17 @@
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\GitVersionTests.ServiceInterface.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\GitVersionTests.ServiceInterface.pdb
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\GitVersionTests.ServiceModel.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.OrmLite.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\GitVersionTests.ServiceModel.pdb
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.xml
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\obj\Debug\GitVersionTests.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\obj\Debug\GitVersionTests.ServiceInterface.dll
+C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceInterface\obj\Debug\GitVersionTests.ServiceInterface.pdb
