@@ -1,6 +1,0 @@
-C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceModel\bin\Debug\GitVersionTests.ServiceModel.dll
-C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceModel\bin\Debug\GitVersionTests.ServiceModel.pdb
-C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
-C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceModel\obj\Debug\GitVersionTests.ServiceModel.csprojResolveAssemblyReference.cache
-C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceModel\obj\Debug\GitVersionTests.ServiceModel.dll
-C:\Work\GitVersionTests\GitVersionTests\GitVersionTests.ServiceModel\obj\Debug\GitVersionTests.ServiceModel.pdb
